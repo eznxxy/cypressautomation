@@ -1,0 +1,6 @@
+{
+  "invalid_credential": "Alamat email atau kata sandi tidak sesuai. Mohon periksa kembali.",
+  "invalid_email": "Email yang kamu masukan tidak sesuai!",
+  "blank_email": "Wajib mengisi alamat email",
+  "blank_katasandi": "Wajib mengisi kata sandi"
+}
